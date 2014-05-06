@@ -1,0 +1,7 @@
+Resources related to polarity:
+
+SentiWordNet: http://sentiwordnet.isti.cnr.it/
+
+Inquirer Dictionary: http://www.wjh.harvard.edu/~inquirer/homecat.htm
+
+Possible test data: http://www.cs.pitt.edu/mpqa/
