@@ -5,6 +5,9 @@ Twitter Sentiment Analyzer in Django
 
 Twitter Sentiment Analysis has been performed on tweets that are extracted live from twitter using Python-Twitter API.
 
+![Screenshot](https://github.com/havingfun/TweetSpeaks/blob/master/TweetSpeaks.png)
+[Live Demo](https://radiant-forest-9929.herokuapp.com/)
+
 I have used existing codes and tried to work on them, tried to improve the accuracy. I used three methods -
 1. Naive Bayes - Poor Accuracy
 I used training data set of Movie Reviews from nltk.github.io/nltk_data/
